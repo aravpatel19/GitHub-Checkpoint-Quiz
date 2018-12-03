@@ -12,4 +12,7 @@ public class GitHubCheckpointQuiz{
 	public String toString(){
 		return m;
 	}
+	public void setString(String m){
+		this.m = m;
+	}
 }
