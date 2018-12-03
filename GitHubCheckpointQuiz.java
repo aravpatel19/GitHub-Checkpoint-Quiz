@@ -6,4 +6,8 @@ public class GitHubCheckpointQuiz{
 
 		m = "This is my GitHub test.";
 	}
+
+	public String toString(){
+		return m;
+	}
 }
