@@ -1,4 +1,3 @@
-
 //Patel
 public class GitHubCheckpointQuiz{
 
